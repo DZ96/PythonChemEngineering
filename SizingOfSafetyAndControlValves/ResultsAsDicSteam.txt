@@ -1,0 +1,1 @@
+{'The discharge area in mm2 is': 127.87052329761421, 'The necessary diameter in mm is ': 12.759694622854473, 'The mass flow in kg per sec is': 0.09764055555555555}

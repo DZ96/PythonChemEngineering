@@ -1,0 +1,2 @@
+Input data: Work. Pressure abs in pa, Temp in Klevin, Dis. Coeff., Vol. Flow in std(Leser) m3/h, Backpressure Pa, overpressure as fraction, Name of the Fluid
+601325 298.15 0.688 1325.396 233500.0 0.1 Oxygen

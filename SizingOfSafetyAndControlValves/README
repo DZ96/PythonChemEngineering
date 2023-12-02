@@ -1,0 +1,4 @@
+In this folder you can see scripts for the sizing of safety valve according API520.
+The scripts are based on fluids and CoolProp libraries for Python.
+The PDF files "Szenario 01,02, etc." are reports from Leser valves own sizing software. You can compare the results and see how small te differences are.
+

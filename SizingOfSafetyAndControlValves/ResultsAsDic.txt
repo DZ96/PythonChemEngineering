@@ -1,0 +1,1 @@
+{'The discharge area in mm2 is': 419.325, 'The necessary diameter in mm is ': 23.106, 'The volume flow in m3 per hours is': 1325.396}
